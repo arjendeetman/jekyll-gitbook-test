@@ -19,7 +19,7 @@ toc:
   enabled: false
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path: /assets/gitbook/images/favicon.ico
+favicon_path: site/assets/gitbook/images/favicon.ico
 
 # markdown render engine.
 markdown: kramdown
@@ -43,7 +43,6 @@ permalink: pretty
 # Set directories
 includes_dir: site/_includes
 layouts_dir: site/_layouts
-assets_dir: site/assets
 collections_dir: pages
 
 collections:
