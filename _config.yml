@@ -38,7 +38,7 @@ syntax_highlighter_style:   colorful
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink: /:categories/title:output_ext
+permalink: pretty
 
 collections:
   system:
