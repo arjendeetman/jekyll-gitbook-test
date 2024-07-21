@@ -42,12 +42,15 @@ permalink: pretty
 
 collections:
   system:
+    label: My Collection 1
     output: true
     sort_by: index
   group:
+    label: My Collection 2
     output: true
     sort_by: index
   others:
+    label: My Collection 3
     output: true
     sort_by: index
 
