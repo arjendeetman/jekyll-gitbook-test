@@ -41,8 +41,6 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md
 permalink: pretty
 
 # Set directories
-includes_dir: site/_includes
-layouts_dir: site/_layouts
 collections_dir: pages
 
 collections:
