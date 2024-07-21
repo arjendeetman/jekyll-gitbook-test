@@ -1,6 +1,5 @@
 ---
 title: Page
-author: Tao He
 category: Jekyll
 layout: post
 index: 3

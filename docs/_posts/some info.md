@@ -1,6 +1,5 @@
 ---
 title: Some info
-author: Tao He
 category: Jekyll
 layout: post
 index: 1

@@ -1,6 +1,5 @@
 ---
 title: Contact
-author: Tao He
 category: Jekyll
 layout: post
 index: 2
