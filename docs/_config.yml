@@ -50,9 +50,11 @@ exclude:
 collections:
   pages:
     output: true
+    sort_by: index
     permalink: /:collection/:path/
   others:
     output: true
+    sort_by: index
     permalink: /:collection/:path/
 
 ordered_collections:

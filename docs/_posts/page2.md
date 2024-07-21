@@ -1,9 +1,9 @@
 ---
-title: How to Get Started
+title: Page 2
 author: Tao He
-date: 2019-04-28
 category: Jekyll
 layout: post
+index: 2
 ---
 
 The jekyll-gitbook theme can be used just as other [Jekyll themes][3] and
