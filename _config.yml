@@ -72,3 +72,5 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+exclude: ["README.md", "LICENSE.txt"]
