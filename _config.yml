@@ -42,7 +42,7 @@ permalink: pretty
 
 collections:
   system:
-    label: posts
+    label: systems
     output: true
     sort_by: index
   group:
