@@ -1,7 +1,7 @@
 ---
 title: Page
 layout: post
-index: 3
+order: 3
 ---
 
 This is a page.

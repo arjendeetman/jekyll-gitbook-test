@@ -1,7 +1,7 @@
 ---
 title: More info
 layout: post
-index: 2
+order: 2
 ---
 
 ## Test 2
