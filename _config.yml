@@ -45,7 +45,7 @@ collections:
     output: true
     sort_by: index
     permalink: /:collection/:path/
-  pages:
+  group:
     output: true
     sort_by: index
     permalink: /:collection/:path/
@@ -56,7 +56,7 @@ collections:
 
 ordered_collections:
   - system
-  - pages
+  - group
   - others
 
 page_width: 800px
