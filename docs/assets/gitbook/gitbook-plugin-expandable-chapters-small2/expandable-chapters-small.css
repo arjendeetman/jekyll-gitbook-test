@@ -6,7 +6,7 @@
 
 .book .book-summary .chapter li > ul {
 	overflow: hidden;
-	max-height: 0px !important;
+	max-height: 30px !important;
 }
 
 /* .book .book-summary .chapter.expanded > .articles { */
