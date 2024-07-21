@@ -1,7 +1,7 @@
 ---
 title: Extra page
 layout: post
-order: 1
+order: 3
 ---
 
 ## Test 3
