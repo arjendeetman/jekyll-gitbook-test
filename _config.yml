@@ -42,7 +42,6 @@ permalink: pretty
 
 collections:
   system:
-    label: systems
     output: true
     sort_by: order
   group:
