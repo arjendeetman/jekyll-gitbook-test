@@ -1,9 +1,9 @@
 ---
-title: Page 1
+title: Some info
 author: Tao He
 category: Jekyll
 layout: post
-index: 301
+index: 1
 ---
 
 ## Test 1

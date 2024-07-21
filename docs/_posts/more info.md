@@ -1,9 +1,9 @@
 ---
-title: Page 2
+title: More info
 author: Tao He
 category: Jekyll
 layout: post
-index: 302
+index: 2
 ---
 
 ## Test 2
