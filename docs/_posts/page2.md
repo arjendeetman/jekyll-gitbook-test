@@ -3,7 +3,7 @@ title: Page 2
 author: Tao He
 category: Jekyll
 layout: post
-index: 2
+index: 302
 ---
 
 ## Test 2
