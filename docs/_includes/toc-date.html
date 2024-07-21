@@ -46,8 +46,8 @@
             {% if site.ordered_collections %}
                 {% for label in site.ordered_collections %}
                     {% assign collection = site.collections | where: "label", label | first %}
-                    <!-- <p>{{ collection.label }}</p> -->
                     {% if collection.output %}
+                        <li class="collection-header">{{ collection.label }}</li>
                         {% if collection.label == "posts" %}
                             {% assign reversed_posts = site[collection.label] | reverse %}
                         {% else %}
@@ -78,8 +78,8 @@
                 {% endfor %}
             {% else %}
                 {% for collection in site.collections %}
-                    <!-- <p>{{ collection.label }}</p> -->
                     {% if collection.output %}
+                        <li class="collection-header">{{ collection.label }}</li>
                         {% if collection.label == "posts" %}
                             {% assign reversed_posts = site[collection.label] | reverse %}
                         {% else %}
