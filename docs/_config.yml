@@ -48,6 +48,10 @@ exclude:
   - _drafts
 
 collections:
+  posts:
+    output: true
+    sort_by: index
+    permalink: /:collection/:path/
   pages:
     output: true
     sort_by: index
