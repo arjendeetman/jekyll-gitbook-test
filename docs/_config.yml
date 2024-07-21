@@ -48,7 +48,7 @@ exclude:
   - _drafts
 
 collections:
-  posts:
+  system:
     output: true
     sort_by: index
     permalink: /:collection/:path/
@@ -62,7 +62,7 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
+  - system
   - pages
   - others
 
