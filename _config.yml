@@ -40,6 +40,8 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md
 # Permalinks
 permalink: pretty
 
+collections_dir: pages
+
 collections:
   system:
     output: true
