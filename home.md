@@ -1,6 +1,6 @@
 ---
-layout: home
 title: Introduction
+layout: home
 permalink: /
 ---
 

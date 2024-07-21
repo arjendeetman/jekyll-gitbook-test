@@ -1,6 +1,5 @@
 ---
 title: About others
-category: Jekyll
 layout: post
 index: 1
 ---

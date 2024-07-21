@@ -1,6 +1,5 @@
 ---
 title: Contact
-category: Jekyll
 layout: post
 index: 2
 ---

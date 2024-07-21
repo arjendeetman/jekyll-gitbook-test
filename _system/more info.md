@@ -1,6 +1,5 @@
 ---
 title: More info
-category: Jekyll
 layout: post
 index: 2
 ---
